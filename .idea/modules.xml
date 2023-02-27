@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/flights-dsl.iml" filepath="$PROJECT_DIR$/.idea/flights-dsl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flights-dsl.iml" filepath="$PROJECT_DIR$/.idea/modules/flights-dsl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flights-dsl.main.iml" filepath="$PROJECT_DIR$/.idea/modules/flights-dsl.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flights-dsl.test.iml" filepath="$PROJECT_DIR$/.idea/modules/flights-dsl.test.iml" />
     </modules>
   </component>
 </project>
